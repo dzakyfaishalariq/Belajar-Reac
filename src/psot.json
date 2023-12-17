@@ -1,0 +1,27 @@
+[
+    {
+        "title":"Tutorial belajar reac js",
+        "tags":["reac", "javascrip"],
+        "date":"2023-01-01",
+        "isNow":true
+    },
+    {
+        "title":"Tutorial belajar mesin learning",
+        "tags":["python", "javascrip","R"],
+        "date":"2023-01-02",
+        "isNow":false
+
+    },
+    {   
+        "title":"Tutorial belajar Deep learning",
+        "tags":["python", "javascrip","R"],
+        "date":"2023-01-03",
+        "isNow":false
+    },
+    {   
+        "title":"Tutorial belajar AWS",
+        "tags":["cloud"],
+        "date":"2023-01-01",
+        "isNow":true
+    }
+]
